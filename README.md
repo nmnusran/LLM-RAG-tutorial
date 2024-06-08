@@ -1,0 +1,1 @@
+This tutorial, walks through the steps to implement a simple Retrieval-Augmented Generation (RAG) based on llama3 - the open-source large language model (LLM) developed by Meta. Two different queries are chosen to demonstrate the advantage of a RAG implementation that can tailer the LLM to provide more accurate and domain-spesific responses:
